@@ -1,0 +1,17 @@
+leia (F)
+leia (C)
+escreva("o que quer calcular ")
+escreva("1. C")
+escreva("2. F")
+leia (T)
+
+se (t=1)ENTAO
+	escreva ("quantos F")
+	leia (F)
+	C<-((F-32)/9)*5
+	escreva("a sua temperatura em C é ", C)
+senao
+	escreva("qunatos C")
+	leia (C)
+	F<-(C*1,8)+32
+	escreva ("a sua temperatura em F é ", F)
