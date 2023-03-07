@@ -1,0 +1,11 @@
+var
+ cont, Q,N, S: inteiro
+
+cont<-1
+escreva("qunaidade de numeros")
+leia (Q)
+enquanto ( cont <= Q)faca 
+ escreva ("digite o ", cont, " o. valor: ")
+ leia(N)
+ s<- (S + N)/Q  
+
