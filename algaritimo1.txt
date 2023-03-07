@@ -1,0 +1,7 @@
+para realizar uma soma
+escreva o primeiro numero 
+leia o primeiro numero 
+escreva o segundo numero
+leia o segundo numero
+soma <- primero numero + segundo numero
+
