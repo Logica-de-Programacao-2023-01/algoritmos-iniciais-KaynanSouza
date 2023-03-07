@@ -1,0 +1,16 @@
+para conversao de temperatura 
+escreva a unidade para qual quer converter
+leia unidade
+se a unidade for celsius
+	escreva qual a teperatura em fahrenheit
+	leia temperatura fahrenheit
+	temperatura em celsius <- (temperatura em fahrenheit -32)/1,8
+	escreva temperatura celsius
+fimse
+se a unidade for fahrenheit
+	escreva qual a temperatura em celsius
+	leia a temperatura celsius
+	temeratura fahrenheit <- (temperatura em celsius*1,8)+32
+	escreva temperatura fahrenheit
+fimse
+
