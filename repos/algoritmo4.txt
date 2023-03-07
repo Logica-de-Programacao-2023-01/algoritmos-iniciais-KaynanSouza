@@ -1,0 +1,7 @@
+leia o numero
+enquanto o numero for > que 1 faca
+numero<- numero *(numero - 1)
+rscreva o resultado
+
+
+
