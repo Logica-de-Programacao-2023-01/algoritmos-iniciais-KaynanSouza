@@ -1,0 +1,7 @@
+escreva o numero
+leia o numero
+
+equanto(numero > 1) faca
+	resultado <- numero * numero-1
+fimenquato
+escreva resultado
