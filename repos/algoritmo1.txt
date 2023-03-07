@@ -1,0 +1,5 @@
+leia (N1)
+leia (N2)
+s<-N1+N2
+escreva ("a soma de ", N1," e ", N2," é igual a ", s)
+
