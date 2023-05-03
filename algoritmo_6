@@ -1,0 +1,5 @@
+escreva("digite um numero")
+leia(&numero)
+escreva("elevado ah")
+leia(&elevado)
+escrevda(numero^elevado)
