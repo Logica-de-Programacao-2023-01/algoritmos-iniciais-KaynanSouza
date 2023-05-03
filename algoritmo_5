@@ -1,0 +1,18 @@
+/*Algoritmo de busca linear: um algoritmo que procura por um determinado elemento em uma lista, verificando cada elemento da lista até encontrá-lo.*/
+
+var x, elemento, vetor[] int
+escreva:("quantos elementos tem na sua lista")
+leia:(&x)
+escreva:("Qual elemento da lista voce deseja encontrar:")
+leia:(&elemento)
+para i=0; i < x; i++{
+  escrevaf:("Digite o elemento %i",i+1)
+  leia(&vetor[i])
+  se (vetor[i]==elemento){
+    escreva:("Elemento econtrado")
+    retorne 0
+  } se senao (vetor[i]==vetor[x]){
+    escrea:("nao existe esse elementos na lista")
+    retorne 0
+  }
+}
